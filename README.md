@@ -8,6 +8,6 @@ Tech Stack used
 * Firebase
 * Flutter
 * Arduino UNO
-  Node MCU with wifi module
-  DHT11, turbidity sensor, PH sensor, od sensor, orp sensor 
+*  Node MCU with wifi module for Connectivity between IOT Components and Application.
+*  Sensors : DHT11, turbidity sensor, PH sensor, od sensor, orp sensor 
   
